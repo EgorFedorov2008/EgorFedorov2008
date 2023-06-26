@@ -15,7 +15,7 @@
 <div>
     <span>Hello</span><br>
     <span>World</span>
-    <img>ptiza.png</img>
+    <img scr= 'ptiza.png'>
 </div>
 </body>
 
